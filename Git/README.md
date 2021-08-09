@@ -19,7 +19,7 @@
 
 > 작업 - 스테이징 - 버전
 >
-> ![image-20210809162841563](C:/Users/USER/AppData/Roaming/Typora/typora-user-images/image-20210809162841563.png)
+> ![image-20210809163638859](md-images/image-20210809163638859.png)
 
 ### Git 기본 명령어
 
