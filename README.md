@@ -6,6 +6,8 @@
 
 ---
 
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="110" height="20" role="img" aria-label="Start: 2021.08.09"><title>Start: 2021.08.09</title><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="110" height="20" rx="3" fill="#fff"/></clipPath><g clip-path="url(#r)"><rect width="37" height="20" fill="#555"/><rect x="37" width="73" height="20" fill="#007ec6"/><rect width="110" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text aria-hidden="true" x="195" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="270">Start</text><text x="195" y="140" transform="scale(.1)" fill="#fff" textLength="270">Start</text><text aria-hidden="true" x="725" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="630">2021.08.09</text><text x="725" y="140" transform="scale(.1)" fill="#fff" textLength="630">2021.08.09</text></g></svg>
+
 ## :grinning: 약속하기
 
 1. 하루에 한번은 꼭 방문해주기
