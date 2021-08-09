@@ -4,6 +4,8 @@
 
 하루에 한번, 성장하기 위한 나와의 약속.
 
+---
+
 ## :grinning: 약속하기
 
 1. 하루에 한번은 꼭 방문해주기
@@ -18,3 +20,6 @@
 
 - [Git](./Git/README.md)
 
+## :three: Python
+
+- [List_Comprehension](./Python/List_Comprehension.md)
