@@ -6,7 +6,7 @@
 
 ---
 
-[![Start](https://img.shields.io/badge/version-2021.8.09-blue.svg)](./START)
+[![Start](https://img.shields.io/badge/START-2021.8.09-blue.svg)](./START)
 
 ## :grinning: 약속하기
 
@@ -25,3 +25,4 @@
 ## :three: Python
 
 - [List_Comprehension](./Python/List_Comprehension.md)
+
