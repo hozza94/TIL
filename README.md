@@ -12,7 +12,7 @@
 
 ## :one: MARKDOWN
 
-- [markdown](./markdown/README.md)
+- [markdown](./MARKDOWN/README.md)
 
 ## :two: Git
 
