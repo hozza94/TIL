@@ -18,9 +18,10 @@
 
 - [markdown](./MARKDOWN/README.md)
 
-## :two: Git
+## :two: [Git](./Git/README.md)
 
-- [Git](./Git/README.md)
+- [Git-1](./Git/Git-1.md)
+- [Git-2](./Git/Git-2.md)
 
 ## :three: Python
 
