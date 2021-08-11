@@ -25,5 +25,14 @@
 
 ## :three: Python
 
+###  :heavy_plus_sign: [Pandas](./Python/Pandas/Pandas.md)
+
+- [Series](./Python/Pandas/Series.md)
+- [DataFrame](./Python/Pandas/DataFrame.md)
+
+###  :heavy_plus_sign: Numpy
+
 - [List_Comprehension](./Python/List_Comprehension.md)
+
+
 
