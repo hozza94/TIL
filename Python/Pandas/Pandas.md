@@ -26,5 +26,5 @@ import pandas as pd
 ## Class
 
 1. [Series](./Series.md)
-2. [DataFrame](DataFrame.md)
+2. [DataFrame_1](DataFrame_1.md)
 
