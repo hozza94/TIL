@@ -34,5 +34,7 @@
 
 - [List_Comprehension](./Python/List_Comprehension.md)
 
+## :four: Algorithm / Datastructure
 
+- [Linked List](./Algorithm/linked_list.md)
 
